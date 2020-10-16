@@ -6,7 +6,7 @@
 #include<math.h>
 #include<iomanip>
 using namespace std;
-
+//Comment
 
 void randArray(int* arr, int size)
 {
